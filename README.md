@@ -1,8 +1,7 @@
 # Password_Generator
  password generator is a  application that creates random passwords for different users.
 
-
-
+This is the project I have done personally apart from Masai School in the duration of 1 day.
 
 <!-- ## Tech Stack: -->
 
