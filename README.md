@@ -14,7 +14,8 @@ This is the project I have done personally apart from Masai School in the durati
 
 ## Features:
 
-1. Generate the password as per the thength you entered. 2. if you select contain upper case it will add 1 upper case letter.
+1. Generate the password as per the thength you entered. 
+2. 2. if you select contain upper case it will add 1 upper case letter.
 3. If you select contain lower case it will add 1 lower case letter.
 4. If you select contain number it will add 1 number.
 5. If you select contain symbol it will add 1 symbol.
