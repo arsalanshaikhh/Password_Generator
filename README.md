@@ -1,5 +1,5 @@
 # Password_Generator
- password generator is a  application that creates random passwords for different users.
+Password Generator is a  application that creates random passwords for different users. It will generate the password as per your configuration like length of password, contain upper case letter, contain lower case letter, contain number and contain symbol.
 
 This is the project I have done personally apart from Masai School in the duration of 1 day.
 
