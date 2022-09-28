@@ -14,39 +14,18 @@ This is the project I have done personally apart from Masai School in the durati
 
 ## Features:
 
-1.Social Sign-up/Sign-in. 2. User authentication from back-end 3. For Data I have created Json Server and deployed it on Heroku. 4.Fetched the data using Axios 5. Added iframe so movies can play upto 4K. 6.With the functionality of play pause ,backward and forward 7.Also added logout functionality.
+1. Generate the password as per the thength you entered. 2. if you select contain upper case it will add 1 upper case letter.
+3. If you select contain lower case it will add 1 lower case letter.
+4. If you select contain number it will add 1 number.
+5. If you select contain symbol it will add 1 symbol.
 
 <h1>Snapshots of our project</h1>
 
-1. This is the Landing page of zee5.com
+1. This is the Landing page of Password Generator
 
-![ScreenShot Tool -20220928051620](https://user-images.githubusercontent.com/88669777/192657654-48d93c8d-9002-4b8d-83bc-ee72623bb79e.png)
-
-2.This is Log-in
-
-![ScreenShot Tool -20220928050537](https://user-images.githubusercontent.com/88669777/192657734-ddd4c787-0e68-4cb8-82eb-153ee098acdd.png)
+![ScreenShot Tool -20220928064842](https://user-images.githubusercontent.com/88669777/192665912-de52d1fc-776a-4730-95e8-efa6c74dfa04.png)
 
 
-3.This is Sign-up and Sign-in Page
+2. This is the final Page after generatin Password
 
-![ScreenShot Tool -20220928050552](https://user-images.githubusercontent.com/88669777/192657791-8d2e0d1a-7223-4ef9-92f0-ca9f920a798a.png)
-
-4. Side Menu
-
-![ScreenShot Tool -20220928050616](https://user-images.githubusercontent.com/88669777/192657860-88bdec21-0d92-4b69-a3d3-279d0b8c4508.png)
-
-5. Movie Page 
-
-![ScreenShot Tool -20220928050841](https://user-images.githubusercontent.com/88669777/192657944-f6bd858c-9c85-492f-8710-d71b4086f1ed.png)
-
-6. Upcomming Movie Page
-
-![ScreenShot Tool -20220928050909](https://user-images.githubusercontent.com/88669777/192658025-24a322fd-d797-4938-a631-540f35247341.png)
-
-7. News Page
-
-![ScreenShot Tool -20220928051607](https://user-images.githubusercontent.com/88669777/192658120-d92e2785-d9f0-4401-93b5-942d90ad39c4.png)
-
-8. Movies page
-
-![ScreenShot Tool -20220928051620](https://user-images.githubusercontent.com/88669777/192658135-ac2e1f74-e10f-4d26-9223-b4fb50bb02b7.png)
+![ScreenShot Tool -20220928064900](https://user-images.githubusercontent.com/88669777/192665921-6e327ce5-9318-4070-8485-99fd21677888.png)
